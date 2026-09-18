@@ -549,7 +549,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     description: `${service.summary} ${service.outcome}`,
     keywords: ["digital marketing", service.title],
   };
-  const url = `https://ajidigitalads.com/services/${slug}`;
+  const url = `https://www.ajidigitalads.com/services/${slug}`;
 
   return {
     title: seo.title,
@@ -593,19 +593,19 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
         "@type": "ListItem",
         position: 1,
         name: "Home",
-        item: "https://ajidigitalads.com",
+        item: "https://www.ajidigitalads.com",
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Services",
-        item: "https://ajidigitalads.com/#services",
+        item: "https://www.ajidigitalads.com/#services",
       },
       {
         "@type": "ListItem",
         position: 3,
         name: service.title,
-        item: `https://ajidigitalads.com/services/${slug}`,
+        item: `https://www.ajidigitalads.com/services/${slug}`,
       },
     ],
   };
@@ -618,9 +618,9 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
     provider: {
       "@type": "ProfessionalService",
       name: "AjiDigitalAds",
-      url: "https://ajidigitalads.com",
+      url: "https://www.ajidigitalads.com",
       telephone: "+91 90923 73329",
-      logo: "https://ajidigitalads.com/logo.png",
+      logo: "https://www.ajidigitalads.com/logo.png",
     },
     description: service.summary,
     offers: extra.prices.map((p) => ({

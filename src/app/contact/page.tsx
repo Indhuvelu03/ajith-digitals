@@ -19,13 +19,13 @@ export const metadata: Metadata = {
     "AjiDigitalAds contact",
   ],
   alternates: {
-    canonical: "https://ajidigitalads.com/contact",
+    canonical: "https://www.ajidigitalads.com/contact",
   },
   openGraph: {
     title: "Contact AjiDigitalAds | Hire Web Developers, Video Editors & SEO Team",
     description:
       "Start a direct conversation with our senior team for custom web development, dedicated video editing, logo design, and organic SEO ranking campaigns.",
-    url: "https://ajidigitalads.com/contact",
+    url: "https://www.ajidigitalads.com/contact",
   },
 };
 

@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { services } from "@/data/services";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://ajidigitalads.com";
+  const baseUrl = "https://www.ajidigitalads.com";
   const now = new Date();
 
   const staticPages: MetadataRoute.Sitemap = [

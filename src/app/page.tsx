@@ -9,11 +9,11 @@ export default function Home() {
     "@type": "WebSite",
     name: "AjiDigitalAds",
     alternateName: "AjiDigitalAds — Video Editing Team, Web Development, Logo Design & Marketing",
-    url: "https://ajidigitalads.com",
+    url: "https://www.ajidigitalads.com",
     description: "Integrated creative and technology agency specializing in dedicated video editing teams, custom web development, logo & graphic design, and digital marketing.",
     potentialAction: {
       "@type": "SearchAction",
-      target: "https://ajidigitalads.com/services/{search_term_string}",
+      target: "https://www.ajidigitalads.com/services/{search_term_string}",
       "query-input": "required name=search_term_string",
     },
   };

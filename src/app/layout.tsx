@@ -7,7 +7,7 @@ import { Navbar } from "@/components/navbar";
 import { WhatsAppWidget } from "@/components/whatsapp-contact";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ajidigitalads.com"),
+  metadataBase: new URL("https://www.ajidigitalads.com"),
   title: {
     default: "AjiDigitalAds | Video Editing Team, Web Development, Logo Design & Digital Marketing",
     template: "%s | AjiDigitalAds",
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     "custom software development",
     "AjiDigitalAds",
   ],
-  authors: [{ name: "AjiDigitalAds", url: "https://ajidigitalads.com" }],
+  authors: [{ name: "AjiDigitalAds", url: "https://www.ajidigitalads.com" }],
   creator: "AjiDigitalAds",
   publisher: "AjiDigitalAds",
   formatDetection: {
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     title: "AjiDigitalAds | Video Editing Team, Web Development & Digital Marketing",
     description:
       "Dedicated video editing team, custom web development, logo graphic design, and high-ROI digital marketing built to elevate your business.",
-    url: "https://ajidigitalads.com",
+    url: "https://www.ajidigitalads.com",
     siteName: "AjiDigitalAds",
     locale: "en_IN",
     type: "website",
@@ -115,9 +115,9 @@ const organizationSchema = {
   "@type": "ProfessionalService",
   name: "AjiDigitalAds",
   alternateName: ["Aji Digital Ads", "Ajith Digitals"],
-  url: "https://ajidigitalads.com",
-  logo: "https://ajidigitalads.com/logo.png",
-  image: "https://ajidigitalads.com/logo.png",
+  url: "https://www.ajidigitalads.com",
+  logo: "https://www.ajidigitalads.com/logo.png",
+  image: "https://www.ajidigitalads.com/logo.png",
   description:
     "Integrated creative and technology agency providing dedicated video editing teams, custom web development, logo & graphic design, and full-funnel digital marketing services.",
   telephone: "+91 90923 73329",

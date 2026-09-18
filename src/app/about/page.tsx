@@ -20,13 +20,13 @@ export const metadata: Metadata = {
     "creative digital studio",
   ],
   alternates: {
-    canonical: "https://ajidigitalads.com/about",
+    canonical: "https://www.ajidigitalads.com/about",
   },
   openGraph: {
     title: "About AjiDigitalAds | Web Development, Video Editing & Growth Agency",
     description:
       "A joined-up digital agency uniting custom web development, dedicated video editors, brand identity designers, and performance SEO specialists.",
-    url: "https://ajidigitalads.com/about",
+    url: "https://www.ajidigitalads.com/about",
   },
 };
 
